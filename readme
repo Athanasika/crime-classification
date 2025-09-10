@@ -1,1 +1,4 @@
 CrimeVision : Crime Classification Using Deep Learning
+Team members: Athanasika RK, Nandalal Parthiban N, Swathi V, Jenifer Sophia L
+Description :This project focuses on automated crime classification using deep learning techniques. The aim is to analyze video data (UCF-Crime Dataset) and classify activities as either normal or abnormal (e.g., burglary, assault, robbery, vandalism, etc.). By leveraging deep learning, the model helps in identifying suspicious activities, 
+which can be valuable for smart surveillance systems and public safety monitoring.
